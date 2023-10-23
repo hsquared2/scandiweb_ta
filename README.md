@@ -1,0 +1,1 @@
+**To set up DB configurations, Go to index.php file and change constants that start with 'DB_'**
